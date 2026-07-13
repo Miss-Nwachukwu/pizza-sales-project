@@ -20,22 +20,22 @@ This project uncovers insights through cleaning, merging, and visualizing pizza 
 ## 📊 Visual Analysis
 
 **Revenue by Day of Week**
-![Revenue by day](images/chart_01.png)
+![Revenue by day](chart%2001.png)
 
 **Revenue by Hour**
-![Revenue by hour](images/chart_02.png)
+![Revenue by hour](chart%2002.png)
 
 **Top Performing Pizza Types**
-![Top pizza types](images/chart_03.png)
+![Top pizza types](chart%2003.png)
 
 **Revenue by Pizza Size**
-![Revenue by size](images/chart_04.png)
+![Revenue by size](chart%2004.png)
 
 **Bottom Performing Pizza Types**
-![Bottom pizza types](images/chart_05.png)
+![Bottom pizza types](chart%2005.png)
 
 **Average Pizzas Ordered Per Order**
-![Average pizzas per order](images/chart_06.png)
+![Average pizzas per order](chart%2006.png)
 
 ## 💡 Key Insights
 - Large pizzas generate the most revenue, contributing 45% of total sales.
